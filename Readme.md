@@ -1,0 +1,1 @@
+Olá esse projeto é uma landingpage para um profissional eletricista autonomo
