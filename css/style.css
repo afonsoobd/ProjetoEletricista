@@ -60,3 +60,17 @@
 .imagens-secao {
     padding-top: 220px;
 }
+
+/* Estilos da secao 2*/
+
+.secao-2 {
+    background: url(../img/eletricista.png) no-repeat center center;
+    background-size: cover;
+    height: 478px;
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+
+.render {
+    margin-top: 77px;
+}
