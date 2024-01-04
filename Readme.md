@@ -1,1 +1,1 @@
-Olá esse projeto é uma landingpage para um profissional eletricista autonomo
+Olá esse projeto é uma landingpage para um profissional eletricista autonomo.
